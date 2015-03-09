@@ -1,7 +1,7 @@
 {
-  "name": "node-module-template",
+  "name": "ent-jwt-auth",
   "version": "1.0.0",
-  "description": "A description of your module",
+  "description": "jwt auth utilities",
   "main": "lib/index.js",
   "directories": {
     "test": "test"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "module_git_repo"
+    "url": "https://github.com/entrinsik-org/jwt-auth"
   },
   "author": "",
   "license": "MIT",
